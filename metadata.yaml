@@ -1,0 +1,52 @@
+_repo: The-old-man-s-home_75652
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Adams, William
+    birthdate: 1814
+    deathdate: 1848
+    gutenberg_agent_id: '33542'
+    url: http://www.gutenberg.org/2009/agents/33542
+    wikipedia: https://en.wikipedia.org/wiki/William_Adams_(author)
+description: 'Reading ease score: 70.5 (7th grade). Fairly easy to read.'
+gutenberg_bookshelf:
+- 'Browsing: Old Age & the Elderly'
+- 'Browsing: Fiction'
+gutenberg_issued: '2025-03-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75652'
+language: en
+pgterms:marc904: https://archive.org/details/oldmanshome00adam
+pgterms:marc905: 20250315204426adams
+pgterms:marc906: '1847'
+pgterms:marc907: US
+production_note: Al Haines
+publication_note: '  $aNew York :$bGeneral Prot. Episcopal S. S. Untion, $c1847.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian life -- Fiction'
+- !lcsh 'Children -- Death -- Fiction'
+- !lcsh 'Death -- Religious aspects -- Christianity -- Fiction'
+- !lcsh 'Friendship -- Religious aspects -- Christianity -- Fiction'
+- !lcc 'BV'
+- !lcc 'PR'
+- GITenberg
+summary: '"The Old Man''s Home" by the Rev. William Adams, M.A. is a poignant fictional
+  narrative published in the mid-19th century, specifically in 1848. The book tells
+  the touching story of an elderly man who believes he is on a journey to reunite
+  with his late wife and children. The text explores deep themes of loneliness, hope,
+  loss, and the nature of reality versus perception.   The narrative unfolds as the
+  protagonist encounters the old man while he is wandering in a picturesque part of
+  the Isle of Wight. Through their conversations, the reader learns of the old man''s
+  lifelong grief over his family, all of whom have long passed away. As he reveals
+  his belief in returning home, it becomes evident that his perceived madness is interwoven
+  with profound wisdom about love, memory, and the essence of faith. The story culminates
+  with the old man''s passing, which serves as a serene conclusion, tying together
+  the themes of homecoming and the eternal bond of family. Ultimately, the book invites
+  readers to reflect on the meaning of home and belonging, both in life and beyond.
+  (This is an automatically generated summary.)'
+title: The old man's home
+url: http://www.gutenberg.org/ebooks/75652
